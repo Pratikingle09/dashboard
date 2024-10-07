@@ -1,10 +1,7 @@
 streamlit
 pandas
 plotly
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-google-api-python-client
-gspread
 requests
-google.oauth2.service_account
+google-auth
+gspread
+
